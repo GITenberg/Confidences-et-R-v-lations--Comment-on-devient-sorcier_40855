@@ -1,0 +1,32 @@
+_repo: Confidences-et-R-v-lations--Comment-on-devient-sorcier_40855
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40855-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Robert-Houdin, Jean-Eugène
+    aliases:
+    - Robert-Houdin, Jean-Eugene
+    - Robert-Houdin
+    birthdate: 1805
+    deathdate: 1871
+    gutenberg_agent_id: '41927'
+    url: http://www.gutenberg.org/2009/agents/41927
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Eugène_Robert-Houdin
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2012-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40855'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Robert-Houdin, Jean-Eugène, 1805-1871'
+- !lcsh 'Magicians -- France -- Biography'
+title: 'Confidences et Révélations: Comment on devient sorcier'
+url: http://www.gutenberg.org/ebooks/40855
